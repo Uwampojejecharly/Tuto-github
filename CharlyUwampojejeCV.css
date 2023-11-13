@@ -54,7 +54,7 @@ body {
 }
 
 .name-div {
-    padding:70px 0px 60px 55px;
+    padding:50px 0px 30px 55px;
     text-align: start;
     letter-spacing: 2px;
     font-size: large;
@@ -70,4 +70,8 @@ body {
 
 h2 {
     margin: 3%;
+}
+
+header {
+    margin: 2%;
 }
