@@ -6,11 +6,7 @@ body {
 }
 
 * {
-    margin: 0px; padding: 0px; font-family: 'montserrat', century gothic;
-}
-
-*{
-    margin: 0px; padding: 0px; font-family: 'montserrat', century gothic;
+    margin: 0px ; padding: 0px; font-family: 'montserrat', century gothic;
 }
 
 .main {
@@ -20,17 +16,16 @@ body {
     position: absolute;
     transform: translate( -50%, -50%);
     left: 50%;
-    top: 60%;
+    top: 50%;
 }
 
 .left {
-
     background-image: repeating-linear-gradient(268deg, rgba(255,255,255, 0) 0px, rgba(255,255,255, 0) 2px,transparent 2px, transparent 4px),linear-gradient(268deg, rgba(240,240,240, 0),rgba(59,59,59, 0.78));
     width: 240px;
     float: left;
     text-align: center;
     font-size: 90%;
-    padding: 10px;
+    padding: 20px 0px 50px 0px;
 }
 
 .profile-img {
@@ -45,16 +40,15 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 100px;
-
 }
 
 .right {
     font-size: 70%;
-    padding: 0px 30px;
+    padding: 10px 20px 0px 250px;
 }
 
 .name-div {
-    padding:50px 0px 30px 55px;
+    padding:50px 0px 30px 10px;
     text-align: start;
     letter-spacing: 2px;
     font-size: large;
@@ -69,9 +63,9 @@ body {
 }
 
 h2 {
-    margin: 3%;
+    margin: 3% 0% 3% 0%;
 }
 
 header {
-    margin: 2%;
+    margin: 3% 0% 3% 0%;
 }
