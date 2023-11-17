@@ -6,7 +6,9 @@ body {
 }
 
 * {
-    margin: 0px ; padding: 0px; font-family: 'montserrat', century gothic;
+    margin: 0px ;
+    padding: 0px;
+    font-family: 'montserrat', century gothic;
 }
 
 .main {
@@ -25,7 +27,7 @@ body {
     float: left;
     text-align: center;
     font-size: 90%;
-    padding: 20px 0px 50px 0px;
+    padding: 20px 20px 50px 20px;
 }
 
 .profile-img {
@@ -33,7 +35,7 @@ body {
     width: 180px;
     border-radius: 60%;
     margin-bottom: 30px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .profile-img img {
@@ -44,7 +46,7 @@ body {
 
 .right {
     font-size: 70%;
-    padding: 10px 20px 0px 250px;
+    padding: 10px 20px 0px 290px;
 }
 
 .name-div {
