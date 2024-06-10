@@ -1,6 +1,6 @@
 # Tuto-Github Project - CV development with HTML and CSS
 
-This project is a practical training aimed at learning the development of a CV using HTML and CSS. It includes an HTML file and a CSS stylesheet to create an attractive and professional layout for a CV
+This project is a practical training aimed at learning the development of a CV using HTML and CSS. It includes an HTML file and a CSS stylesheet to create an attractive and professional layout for a CV.
 
 ## Installation
 
