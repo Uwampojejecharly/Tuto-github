@@ -1,4 +1,4 @@
-body {
+body{
     background-image: linear-gradient(#636162, #b1afaf);
     height: 122vh;
     letter-spacing: 1px;
@@ -8,7 +8,10 @@ body {
     margin: 0px; padding: 0px; font-family: 'montserrat', century gothic;
 }
 
-.main {
+*{
+    margin: 0px; padding: 0px; font-family: 'montserrat', century gothic;
+}
+.main{
     background-color: white;
     height: auto;
     width: 700px;
@@ -17,8 +20,8 @@ body {
     left: 50%;
     top: 60%;
 }
+.left{
 
-.left {
     background-image: repeating-linear-gradient(268deg, rgba(255,255,255, 0) 0px, rgba(255,255,255, 0) 2px,transparent 2px, transparent 4px),linear-gradient(268deg, rgba(240,240,240, 0),rgba(59,59,59, 0.78));
     width: 240px;
     float: left;
@@ -27,7 +30,7 @@ body {
     padding: 10px;
 }
 
-.profile-img {
+.profile-img{
     height: 180px;
     width: 180px;
     border-radius: 60%;
@@ -35,19 +38,18 @@ body {
     margin-left: 10px;
 }
 
-.profile-img img {
+.profile-img img{
     height: 200px;
     width: 200px;
     border-radius: 100px;
 
 }
-
-.right {
+.right{
     font-size: 70%;
     padding: 0px 30px;
 }
 
-.name-div {
+.name-div{
     padding:70px 0px 60px 55px;
     text-align: start;
     letter-spacing: 2px;
@@ -62,6 +64,13 @@ body {
     font-size: 300%;
 }
 
-h2 {
+.nom{
+    font-size: 250%;
+}
+.prenom{
+    font-size: 300%;
+}
+
+h2{
     margin: 3%;
 }
